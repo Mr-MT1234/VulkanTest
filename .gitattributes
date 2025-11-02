@@ -1,4 +1,2 @@
-VulkanTest1/Dependencies/vulkan/Lib/*.lib filter=lfs diff=lfs merge=lfs -text
-./VulkanTest1/Dependencies/vulkan/Lib/*.lib filter=lfs diff=lfs merge=lfs -text
 /VulkanTest1/Dependencies/vulkan/Lib/SPIRV-Tools-opt.lib filter=lfs diff=lfs merge=lfs -text
 /VulkanTest1/Dependencies/vulkan/Lib/shaderc_combined.lib filter=lfs diff=lfs merge=lfs -text
